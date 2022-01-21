@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @McGeerDev
+- 👀 I’m interested in everything DevOps
+- ☁️ I recently got my AWS Cloud Practitioner badge
+- 🌱 I’m currently learning next- and nestjs with typescript. Some vscode extensions and rust on the side
+- 💞️ I’m looking to collaborate on any typescript or CI/CD projects
+- 📫 How to reach me: email: mcgeer.devan@gmail.com
